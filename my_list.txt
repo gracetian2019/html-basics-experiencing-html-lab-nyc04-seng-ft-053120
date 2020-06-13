@@ -1,4 +1,4 @@
-"Painting"
+"Paintings"
 "Books"
 "Pens"
 "Fan"
